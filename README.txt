@@ -1,2 +1,2 @@
 Aprendendo Git
-teste de commit
+branch 2 merged
