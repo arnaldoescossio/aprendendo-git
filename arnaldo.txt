@@ -1,6 +1,3 @@
 commit 1
-<<<<<<< HEAD
 commit 2
 commit 3
-=======
->>>>>>> parent of f0121ba... commit 2
